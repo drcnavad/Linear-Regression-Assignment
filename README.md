@@ -23,6 +23,7 @@ The company want to understand the factors on which the demand for these shared 
 ## Recommendation
 - The company should be well prepared with a good avaibility of bikes during summer and fall season. 
 - Weekdays tend to have higher number of registered users. The company should focus on gaining more registered users to get repeat business during peak hours.
+- Temperature (feels like) is the most significant factor for predicting bike usage. The users of bike goes up with rise in temperature.  
 
 
 ## Technologies Used
