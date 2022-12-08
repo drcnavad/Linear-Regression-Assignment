@@ -34,7 +34,6 @@ The company want to understand the factors on which the demand for these shared 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was a part of Linear Regression Assignment by Bangalore IIITB and LJMU
 
 
