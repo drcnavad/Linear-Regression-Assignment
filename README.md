@@ -20,6 +20,10 @@ The company want to understand the factors on which the demand for these shared 
 - Bright, sunny days on working days has a highest number of registered users. Casual user numbers are higher on weekend or holiday.
 - 2019 has higher average number of users as compared to 2018
 
+## Recommendation
+- The company should be well prepared with a good avaibility of bikes during summer and fall season. 
+- Weekdays tend to have higher number of registered users. The company should focus on gaining more registered users to get repeat business during peak hours.
+
 
 ## Technologies Used
 - Python 
